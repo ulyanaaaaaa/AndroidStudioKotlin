@@ -1,0 +1,81 @@
+<resources>
+    <string-array name="array">
+        <item>Овощи</item>
+        <item>Фрукты</item>
+        <item>Ягоды</item>
+        <item>Орехи</item>
+        <item>Сухофрукты</item>
+        <item>Белки</item>
+        <item>Семена</item>
+        <item>Йогурты</item>
+        <item>Цельнозерновые</item>
+        <item>Жиры</item>
+        <item>Бобовые</item>
+    </string-array>
+
+    <string-array name="Овощи">
+        <item>Помидор|tomato.jpg|tomato.html</item>
+        <item>Огурец|cucumber.png|cucumber.html</item>
+        <item>Морковь|carrot.jpg|carrot.html</item>
+    </string-array>
+
+    <string-array name="Фрукты">
+        <item>Банан|banana.jpg|banana.html</item>
+        <item>Авокадо|avocado.jpg|avocado.html</item>
+        <item>Яблоко|apple.jpg|apple.html</item>
+    </string-array>
+
+    <string-array name="Ягоды">
+        <item>Арбуз|watermelon.jpg|watermelon.html</item>
+        <item>Черника|blueberry.jpg|blueberry.html</item>
+        <item>Малина|raspberry.jpg|raspberry.html</item>
+    </string-array>
+
+    <string-array name="Орехи">
+        <item>Миндаль|almond.jpg|almond.html</item>
+        <item>Грецкий орех|walnut.jpg|walnut.html</item>
+        <item>Фундук|hazelnut.jpg|hazelnut.html</item>
+    </string-array>
+
+    <string-array name="Сухофрукты">
+        <item>Курага|apricot.jpg|apricot.html</item>
+        <item>Изюм|raisin.jpg|raisin.html</item>
+        <item>Чернослив|prune.jpg|prune.html</item>
+    </string-array>
+
+    <string-array name="Белки">
+        <item>Куринная грудка|chicken.jpg|chicken.html</item>
+        <item>Индейка|turkey.jpg|turkey.html</item>
+        <item>Тофу|tofu.jpg|tofu.html</item>
+    </string-array>
+
+    <string-array name="Семена">
+        <item>Семена чиа|chia.jpg|chia.html</item>
+        <item>Тыквенные семечки|pumpkin.jpg|pumpkin.html</item>
+        <item>Лен|flax.jpg|flax.html</item>
+    </string-array>
+
+    <string-array name="Йогурты">
+        <item>Натуральный йогурт|yogurt.jpg|yogurt.html</item>
+        <item>Кефир|kefir.jpg|kefir.html</item>
+        <item>Греческий йогурт|greek_yogurt.jpg|greek_yogurt.html</item>
+    </string-array>
+
+    <string-array name="Цельнозерновые">
+        <item>Киноа|quinoa.jpg|quinoa.html</item>
+        <item>Коричневый рис|brown_rice.jpg|brown_rice.html</item>
+        <item>Овсянка|oats.jpg|oats.html</item>
+    </string-array>
+
+    <string-array name="Жиры">
+        <item>Авокадо|avocado.jpg|avocado.html</item>
+        <item>Оливковое масло|olive_oil.jpg|olive_oil.html</item>
+        <item>Миндальное масло|almond_butter.jpg|almond_butter.html</item>
+    </string-array>
+
+    <string-array name="Бобовые">
+        <item>Чечевица|lentil.jpg|lentil.html</item>
+        <item>Нут|chickpea.jpg|chickpea.html</item>
+        <item>Черная фасоль|black_bean.jpg|black_bean.html</item>
+    </string-array>
+</resources>
